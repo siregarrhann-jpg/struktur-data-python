@@ -33,6 +33,43 @@
 
 <hr>
 
+<h2>🖥️ Sample Output Program</h2>
+<p>Berikut adalah contoh hasil keluaran (output terminal) dari masing-masing skrip Python:</p>
+
+<h3>🔹 Enqueue1.py</h3>
+<pre>
+Data: deque(['anfasa', 'farhan', 'zaki', 'sultan'])
+deque(['sayyid', 'anfasa', 'farhan', 'zaki', 'sultan'])
+</pre>
+
+<h3>🔹 Dequeue.py</h3>
+<pre>
+antrean Awal ['farhan', 'zaki', 'sayyid', 'anfasa', 'sultan']
+Data yang keluar: farhan
+Antrean Sekarang: ['zaki', 'sayyid', 'anfasa', 'sultan']
+</pre>
+
+<h3>🔹 Front.py</h3>
+<pre>
+data: ['farhan', 'anfasa', 'zaki', 'jagdish']
+data: ['farhan', 'anfasa', 'zaki', 'jagdish', 'acaa']
+front; farhan
+</pre>
+
+<h3>🔹 Rear.py</h3>
+<pre>
+data: ['farhan', 'anfasa', 'zaki', 'jagdish']
+data: ['farhan', 'anfasa', 'zaki', 'jagdish', 'dwi']
+rear; dwi
+</pre>
+
+<h3>🔹 isEmpty.py</h3>
+<pre>
+false
+</pre>
+
+<hr>
+
 <h2>📁 Struktur Repositori</h2>
 <pre>
 struktur-data-python/
